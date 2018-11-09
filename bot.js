@@ -4,7 +4,7 @@ const prefix = '%'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`- على كثر الغياب قلبي مانسّى ঌ `,"http://twitch.tv/S-F")
+client.user.setGame(`على كثر الغياب قلبي مانسّى ঌ `,"https://www.twitch.tv/")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
