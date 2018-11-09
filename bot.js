@@ -99,4 +99,5 @@ client.on('message', message => {
            }, 33000)
            });
          }
- })
+})
+client.login(process.env.BOT_TOKEN);
